@@ -26,8 +26,7 @@
 整体识别时间在150ms以内
 
 部署效果图:
-
-![image](https://img-blog.csdnimg.cn//20191121161418904.png）
+![image](https://img-blog.csdnimg.cn//20191121161418904.png)
 ![image](https://img-blog.csdnimg.cn//20191121161048739.png)
 
 人脸识别算法优势：
