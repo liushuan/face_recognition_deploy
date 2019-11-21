@@ -26,4 +26,4 @@
 整体识别时间在150ms以内
 
 部署效果图： 
-![login](https://blog.csdn.net/u011808673/article/details/103184050）
+(https://img-blog.csdnimg.cn/20191121161418904.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE4MDg2NzM=,size_16,color_FFFFFF,t_70）
