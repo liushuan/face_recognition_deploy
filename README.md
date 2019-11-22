@@ -27,7 +27,7 @@
 
 部署效果图:
 ![image](https://img-blog.csdnimg.cn//20191121161418904.png)
-![image](https://img-blog.csdnimg.cn//20191121161048739.png)
+![image](https://img-blog.csdnimg.cn/2019112212403927.png)
 
 人脸识别算法优势：
   使用自有的大数据平台作为数据支撑，数据量在千万级以上。同时应用前沿的深度神经网络进行模型的训练及优化，达到百万级分之一的错误率。
